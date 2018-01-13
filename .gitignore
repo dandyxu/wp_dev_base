@@ -1,0 +1,14 @@
+# This is Git Ignore list for WP Development Workflow
+
+# Ignore Sensitive files
+wp-config.php
+readme.html
+license.txt
+.htaccess
+
+# Ignore unnecessary themes
+wp-content/themes/twentyfifteen/
+wp-content/themes/twentysixteen/
+
+# Ingore IDE files
+.idea/
