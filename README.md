@@ -1,6 +1,6 @@
 ## This repo is for my own WP Development Workflow.
 
-#### Current WP Base: v4.9.1
+#### Current WP Base: v4.9.2
 
 #### Include Dev Tools
 1. Developer | Automattic | Version 1.2.6
@@ -25,4 +25,6 @@
 
 4. WordPress Importer | wordpressdotorg | Version 0.6.3
 
-#### Last Updated: 13rd.Jan.2018
+5. Advanced Custom Fields Pro | Pull from WP Premium | Version 5.6.5 | need to be tested
+
+#### Last Updated: 18th.Jan.2018
