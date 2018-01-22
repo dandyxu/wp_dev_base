@@ -25,6 +25,8 @@
 
 4. WordPress Importer | wordpressdotorg | Version 0.6.3
 
-5. Advanced Custom Fields Pro | Pull from WP Premium | Version 5.6.5 | need to be tested
+5. Advanced Custom Fields Pro | Clone from WP Premium | Version 5.6.5 | need to be tested
 
-#### Last Updated: 18th.Jan.2018
+6. WP Sync DB | Clone from wp-sync-db repo | Verson 1.5 | need to be tested
+
+#### Last Updated: 22nd.Jan.2018
