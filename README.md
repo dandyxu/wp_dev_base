@@ -27,6 +27,6 @@
 
 5. Advanced Custom Fields Pro | Clone from WP Premium | Version 5.6.5 | need to be tested
 
-6. WP Sync DB | Clone from wp-sync-db repo | Verson 1.5 | need to be tested
+6. WP Sync DB | Clone from wp-sync-db repo | Verson 1.5 | Tested, Working
 
-#### Last Updated: 22nd.Jan.2018
+#### Last Updated: 23rd.Jan.2018
